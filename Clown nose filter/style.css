@@ -1,0 +1,12 @@
+h2{
+    box-shadow: 5px 5px 15px orange ;
+}
+button{
+    box-shadow: 5px 5px 15px red ;
+   
+}
+canvas{
+    margin-top: 50px;
+    border: 2px solid darkred;
+ background-color: yellow;   
+}
